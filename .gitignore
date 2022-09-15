@@ -1,0 +1,8 @@
+docker_kitchen2/2. Init Database
+docker_kitchen2/pgadmin
+docker_kitchen2/pgdata
+docker_kitchen2/nifi-conf
+.idea
+OCR_DATA_IN_DB/.idea
+OCR_DATA_IN_DB/venv
+OCR_DATA_IN_DB/training_model
